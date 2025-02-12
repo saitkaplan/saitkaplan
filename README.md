@@ -4,21 +4,19 @@ Ben Sait, hayallerinin peşinden giden ve yazılım dünyasında iz bırakmak is
 
 ## 🌟 Üzerinde Çalıştığım Projeler
 
-- **Raven Language**: Google Play'de yer alan yenilikçi bir dil öğrenme uygulaması.
-- **Corrupted Island**: Keşfedilmeyi bekleyen gizemli bir D&D oyunu.
-- **B-1o**: Kendimi geliştirmeye en çok adadığım bir proje.
+- **Corrupted Island**: Fantastik temalı bir rol yapma oyunu.
+- **Raven Language**: Oyunlarla bezeli bir dil öğrenme uygulaması.
 
 ## 🚀 Şu Anda Öğrendiğim Teknolojiler
 
 - **Unity**: 2D ve 3D oyun geliştirme dünyasına adım atıyorum.
 - **Flutter**: Mobil uygulama geliştirme becerilerimi genişletiyorum.
-- **Swift**: iOS ekosisteminde yeni projeler için hazırlık yapıyorum.
 
 > *Not: Çalışmalarımın büyük bir kısmı gizli repo olarak saklanıyor. Detaylar için iletişime geçmekten çekinmeyin!*
 
 ## 🤝 İşbirliği Fırsatları
 
-Uygulama ve oyun geliştirme konusunda yeni işbirliklerine açığım. Birlikte çalışarak harika projelere imza atabiliriz!
+Yazılım geliştirme konusunda yenilikçi fikirlere ve işbirliklerine her zaman açığım. Birlikte çalışarak harika projelere imza atabiliriz! Lütfen iletişime geçmekten çekinmeyin.
 
 ## 🧠 Destek Arayışım
 
