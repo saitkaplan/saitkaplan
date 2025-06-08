@@ -1,41 +1,33 @@
-# Merhaba, Ben Sait! 👋
+# Hi, I'm Sait! 👋
 
-Ben Sait, hayallerinin peşinden giden ve yazılım dünyasında iz bırakmak isteyen bir kod tutkunu! Freelance işler yaparak kendimi geliştirmeye ve yenilikçi projelere imza atmaya devam ediyorum. 😄
+A code enthusiast who chases his dreams and wants to leave his mark on the software world! I try to improve myself and learn new things by doing freelance work.
 
-## 🌟 Üzerinde Çalıştığım Projeler
+## 🌟 Projects I'm Working On
 
-- **Corrupted Island**: Fantastik temalı bir rol yapma oyunu.
-- **Raven Language**: Oyunlarla bezeli bir dil öğrenme uygulaması.
+- **Elder's Word Dungeon**: A word game out of the ordinary.
+- **Corrupted Island**: A fantasy-themed role-playing game.
+- **Raven Language**: A language learning app with games.
 
-## 🚀 Şu Anda Öğrendiğim Teknolojiler
+## 🚀 Technologies I'm Learning Right Now
 
-- **Unity**: 2D ve 3D oyun geliştirme dünyasına adım atıyorum.
-- **Flutter**: Mobil uygulama geliştirme becerilerimi genişletiyorum.
+- **Flutter**: I've always done my projects using Flutter so far.
+- **Flutter-Flame**: I'm making my latest game project using Flutter Flame.
 
-> *Not: Çalışmalarımın büyük bir kısmı gizli repo olarak saklanıyor. Detaylar için iletişime geçmekten çekinmeyin!*
+> *Note: Most of my work is stored as a private repo. Feel free to contact me for details!*
 
-## 🤝 İşbirliği Fırsatları
+## 🤝 Collaboration Opportunities
 
-Yazılım geliştirme konusunda yenilikçi fikirlere ve işbirliklerine her zaman açığım. Birlikte çalışarak harika projelere imza atabiliriz! Lütfen iletişime geçmekten çekinmeyin.
+I am always open to innovative ideas and collaborations in developing projects such as applications etc.
 
-## 🧠 Destek Arayışım
+## 📬 Contact
 
-- **Unity**: Oyun geliştirme sürecinde yardıma ihtiyacım olabilir.
-- **Flutter**: Mobil uygulama geliştirme konusunda rehberliğe açığım.
+- **E-mail**: sait.kaplan@icloud.com
+- **LinkedIn**: [Sait Kaplan](https://www.linkedin.com/in/saitkaplan)
 
-## 📬 İletişim
-
-- **E-posta**: sait.kaplan@icloud.com
-- **LinkedIn**: [Sait Kaplan](https://www.linkedin.com/in/sait-kaplan/)
-
-## 🎮 İlginç Bir Bilgi
-
-FPS oyunlarında rakip tanımayan, MMORPG oyun dünyasında ise maceradan maceraya koşan bir oyuncuyum! ⚡
-
-## GitHub İstatistiklerim
+## My GitHub Stats
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saitkaplan&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-dark-mode-only)
 [![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saitkaplan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-light-mode-only)
 
-## En Çok Kullandığım Yazılım Dilleri
+## Software Languages I Use Most
 [![My Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=saitkaplan&layout=compact&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-dark-mode-only)
 [![My Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=saitkaplan&layout=compact&theme=default#gh-light-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-light-mode-only)
