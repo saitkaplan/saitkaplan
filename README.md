@@ -1,6 +1,6 @@
 # Hi, I'm Sait! 👋
 
-A code enthusiast who chases his dreams and wants to leave his mark on the software world! I try to improve myself and learn new things by doing freelance work.
+I am a software developer who sees software development not just as a profession, but as a passion. Committed to continuous learning and growth through new technologies, I strive to stay at the forefront of the field. Although I hold a degree in Electrical and Electronics Engineering, I have chosen to specialize in software and am shaping my career accordingly. I aim to develop innovative solutions to problems through an interdisciplinary perspective and to create value by leveraging technology effectively.
 
 ## 🌟 Projects I'm Working On
 
@@ -10,8 +10,9 @@ A code enthusiast who chases his dreams and wants to leave his mark on the softw
 
 ## 🚀 Technologies I'm Learning Right Now
 
-- **Flutter**: I've always done my projects using Flutter so far.
-- **Flutter-Flame**: I'm making my latest game project using Flutter Flame.
+- **[Flutter](https://flutter.dev/)**: I've always done my projects using Flutter so far.
+- **[Flutter-Flame](https://pub.dev/packages/flame)**: I'm making my latest game project using Flutter Flame.
+- **[Google Tools](https://developers.google.com/)**: Along with the projects I develop, I also learn Google Tools and improve myself on this subject.
 
 > *Note: Most of my work is stored as a private repo. Feel free to contact me for details!*
 
@@ -21,13 +22,11 @@ I am always open to innovative ideas and collaborations in developing projects s
 
 ## 📬 Contact
 
-- **E-mail**: sait.kaplan@icloud.com
-- **LinkedIn**: [Sait Kaplan](https://www.linkedin.com/in/saitkaplan)
+- **E-mail**: [Sait Kaplan](mailto:sait.kaplan@icloud.com)<br/>
+- **LinkedIn**: [Sait Kaplan](https://www.linkedin.com/in/saitkaplan)<br/>
 
 ## My GitHub Stats
-[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=saitkaplan&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-dark-mode-only)
-[![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=saitkaplan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=saitkaplan&include_all_commits=true&count_private=true&hide=contribs,stars&cache_seconds=86400&hide_border=false&theme=gruvbox_light&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saitkaplan&layout=compact&include_all_commits=true&count_private=true&hide_border=false&theme=gruvbox_light&show_icons=true)<br/>
 
-## Software Languages I Use Most
-[![My Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=saitkaplan&layout=compact&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-dark-mode-only)
-[![My Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=saitkaplan&layout=compact&theme=default#gh-light-mode-only)](https://github.com/saitkaplan/github-readme-stats#gh-light-mode-only)
+[![](https://visitor-badge.laobi.icu/badge?page_id=saitkaplan.saitkaplan)](#)
