@@ -4,9 +4,9 @@ I am a software developer who sees software development not just as a profession
 
 ## 🌟 Projects I'm Working On
 
-- **Elder's Word Dungeon**: A word game out of the ordinary.
-- **Corrupted Island**: A fantasy-themed role-playing game.
-- **Raven Language**: A language learning app with games.
+- **Words & Hammers**: A word game out of the ordinary.
+- **[Corrupted Island](https://play.google.com/store/apps/details?id=com.elder_root.corrupted_island_android)**: A fantasy-themed role-playing game.
+- **[Raven Language](https://play.google.com/store/apps/details?id=com.elder_root.raven_language)**: A language learning app with games.
 
 ## 🚀 Technologies I'm Learning Right Now
 
