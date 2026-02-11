@@ -11,7 +11,7 @@ I am a software developer who sees software development not just as a profession
 ## 🚀 Technologies I'm Learning Right Now
 
 - **[Flutter](https://flutter.dev/)**: I've always done my projects using Flutter so far.
-- **[Flutter-Flame](https://pub.dev/packages/flame)**: I'm making my latest game project using Flutter Flame.
+- **[Flutter/Flame](https://pub.dev/packages/flame)**: I'm making my latest game project using Flutter Flame.
 - **[Google Tools](https://developers.google.com/)**: Along with the projects I develop, I also learn Google Tools and improve myself on this subject.
 
 > *Note: Most of my work is stored as a private repo. Feel free to contact me for details!*
@@ -24,9 +24,6 @@ I am always open to innovative ideas and collaborations in developing projects s
 
 - **E-mail**: [Sait Kaplan](mailto:sait.kaplan@icloud.com)<br/>
 - **LinkedIn**: [Sait Kaplan](https://www.linkedin.com/in/saitkaplan)<br/>
-
-## My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=saitkaplan&include_all_commits=true&count_private=true&hide=contribs,stars&cache_seconds=86400&hide_border=false&theme=gruvbox_light&show_icons=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saitkaplan&layout=compact&include_all_commits=true&count_private=true&hide_border=false&theme=gruvbox_light&show_icons=true)<br/>
+- **X**: [Sait Kaplan](https://www.x.com/in/neawerse)<br/>
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=saitkaplan.saitkaplan)](#)
