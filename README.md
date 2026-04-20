@@ -1,29 +1,73 @@
-# Hi, I'm Sait! 👋
+<div align="center">
 
-I am a software developer who sees software development not just as a profession, but as a passion. Committed to continuous learning and growth through new technologies, I strive to stay at the forefront of the field. Although I hold a degree in Electrical and Electronics Engineering, I have chosen to specialize in software and am shaping my career accordingly. I aim to develop innovative solutions to problems through an interdisciplinary perspective and to create value by leveraging technology effectively.
+```
+_   _                        
+ | \ | | ___  __ ___      _____  
+ |  \| |/ _ \/ _` \ \ /\ / / _ \ 
+ | |\  |  __/ (_| |\ V  V /  __/ 
+ |_| \_|\___|\__,_| \_/\_/ \___| 
+```
 
-## 🌟 Projects I'm Working On
+</div>
 
-- **Words & Hammers**: A word game out of the ordinary.
-- **[Corrupted Island](https://play.google.com/store/apps/details?id=com.elder_root.corrupted_island_android)**: A fantasy-themed role-playing game.
-- **[Raven Language](https://play.google.com/store/apps/details?id=com.elder_root.raven_language)**: A language learning app with games.
+<div align="center">
 
-## 🚀 Technologies I'm Learning Right Now
+### Sait "Neawe" Kaplan
 
-- **[Flutter](https://flutter.dev/)**: I've always done my projects using Flutter so far.
-- **[Flutter/Flame](https://pub.dev/packages/flame)**: I'm making my latest game project using Flutter Flame.
-- **[Google Tools](https://developers.google.com/)**: Along with the projects I develop, I also learn Google Tools and improve myself on this subject.
+`@neawerse` · `türkiye` · `he/him`
 
-> *Note: Most of my work is stored as a private repo. Feel free to contact me for details!*
+![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Flame-FF6D00?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![](https://img.shields.io/badge/IT_Support-555?style=flat-square)
 
-## 🤝 Collaboration Opportunities
+</div>
 
-I am always open to innovative ideas and collaborations in developing projects such as applications etc.
+---
 
-## 📬 Contact
+```bash
+$ who am i
+> Flutter/Flame App & Game Developer • Supabase Jr. • IT Support • Game, music and coding!
+```
 
-- **E-mail**: [Sait Kaplan](mailto:sait.kaplan@icloud.com)<br/>
-- **LinkedIn**: [Sait Kaplan](https://www.linkedin.com/in/saitkaplan)<br/>
-- **X**: [Sait Kaplan](https://www.x.com/in/neawerse)<br/>
+---
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=saitkaplan.saitkaplan)](#)
+### 🔨 Aktif Proje
+
+**[Words & Hammers]** — `geliştiriliyor`
+
+> Kelime Bulmaca Oyunu · Rekabetçi Mod · Ödül Sistemi · ve Fazlası
+> 
+> `Flutter` · `Flame` · `Supabase`
+
+---
+
+### 🛠️ Stack
+
+```
+Flutter   ████████░░░░░░░░░░░░  40%
+Dart      ████████████░░░░░░░░  60%  
+Flame     ██████░░░░░░░░░░░░░░  30%
+Supabase  ████░░░░░░░░░░░░░░░░  20%
+```
+
+---
+
+### 📬 İletişim
+
+[![X](https://img.shields.io/badge/X-@neawerse-000?style=flat-square&logo=x&logoColor=white)](https://x.com/neawerse)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sait_Kaplan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saitkaplan)
+[![Mail](https://img.shields.io/badge/Mail-sait.kaplan@icloud.com-555?style=flat-square&logo=apple&logoColor=white)](mailto:sait.kaplan@icloud.com)
+
+---
+
+<div align="center">
+
+[![Archive](https://img.shields.io/badge/geçmiş_projeler_için_bkz._archive.md-555555?style=flat-square)](ARCHIVE.md)
+
+*çoğu repo private · detaylar için lütfen bana iletişim kanallarından ulaşın...*
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=saitkaplan.saitkaplan)
+
+</div>
